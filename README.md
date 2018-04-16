@@ -18,10 +18,15 @@ o Future state operating model
 
 ## Proposal: 
 
-![alt tag](http://url/to/img.png)
+```Data Lake architecture ```
 
-- Data Lake architecture 
-- Data And analytics platform with Machine learning and data science features.
+![Optional Text](data-lake-architecture.jpg)
+
+
+```Data And analytics platform with Machine learning and data science features.```
+
+![Optional Text](data_lake.png)
+
 
 ## Value output: 
 - Output will change from data to decision / Insights 

@@ -12,7 +12,7 @@ o Future state operating model
 
 ## Assumptions:
 - Department of Better Communities has a operating data platform. 
-- I'm taking Big Data Architect (Data Lake) role 
+- I'm taking Big Data Architect role 
 - I'm blending technical and business approach
 - I will be using on-premise due to government's sencitivity towards data security. 
 
@@ -29,14 +29,13 @@ o Future state operating model
 
 
 ## Value output: 
-- Output will change from data to decision / Insights 
+- Output will be improved from raw data to decisions,Insights, reports, etc. 
 - Increased business value 
-- Using the data lake platform, Advance analytics can help to find the corulation between different parameters (for instance, how people reacted to the 
-citizenship / RTA changes, and what impact it made to those departments etc).
+- Using the data lake platform and Advance analytics helps to find the corulation between different parameters (for instance, how people reacted to the citizenship / RTA changes, and what impact it made to those departments etc).
 - Highly enriched dataset for data partners, business users, and top officials
 
 ## Impacts on the organisation's strategy and technology
-- Increased number of ending users / organisations 
+- Increased number of end users/organisations 
 - Highly scalable architecture 
 - Integrated platform for data and analytics
 - real data used for data analytics and model building
@@ -47,7 +46,7 @@ citizenship / RTA changes, and what impact it made to those departments etc).
 ## Business architecture/process impacts:
 - Short and simple process for data analytics pipeline building.
 - Enable Business users with self serviced data platform.
-- Running batch jobs during off peak timing making sure that the resources are using effectively 
+- Running batch jobs during off peak timing making sure that the resources are utilised effectively 
 - Real time streaming of data.
 - APIs for providing data and receiving data
 
